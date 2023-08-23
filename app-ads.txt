@@ -150,3 +150,7 @@ appnexus.com, 11924, RESELLER, f5ab79cb980f11d1
 rubiconproject.com, 12556, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 18202, RESELLER, 0bfd66d529a55807
 triplelift.com, 13883, RESELLER, 6c33edb13117fd86
+bidmachine.io, 162, RESELLER
+pubmatic.com, 157559, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 18364, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 24400, RESELLER, 0bfd66d529a55807
