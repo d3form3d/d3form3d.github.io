@@ -165,3 +165,6 @@ playwire.com, 1025000, RESELLER
 improvedigital.com, 1604, RESELLER
 improvedigital.com, 2052, RESELLER
 smartclip.net, 13564, RESELLER
+onetag.com, 7d9af0b85b5070e, DIRECT
+adsyield.com, 1233, DIRECT
+pubmatic.com, 162239, RESELLER, 5d62403b186f2ace
