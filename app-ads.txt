@@ -270,6 +270,7 @@ video.unrulymedia.com, 6111915185540403805, RESELLER
 videoheroes.tv, 212428, RESELLER, 064bc410192443d8
 videoheroes.tv, 212550, RESELLER, 064bc410192443d8
 webeyemob.com, 80029, RESELLER
+zmaticoo.com, 5135704, RESELLER
 
 vungle.com,6377d5ac4f05c4001bafbb85,DIRECT,c107d686becd2d77
 152media.info,152M312,RESELLER
